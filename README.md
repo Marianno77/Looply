@@ -108,3 +108,27 @@ Looply to system zarządzania zadaniami oparty na kalendarzu, w którym użytkow
 - **HTML, CSS, JavaScript** (Frontend)
 - **Biblioteka JavaScript do tworzenia wykresów** (Do wizualizacji postępów)
 
+
+## screenshot
+
+![image](https://github.com/user-attachments/assets/11c82a0f-4d19-470f-adaf-62777780b87e)
+<center>Strona główna | Main page</center>
+<br><br>
+
+![image](https://github.com/user-attachments/assets/48bc3bb1-ae03-44a1-8706-5f10217c05db)
+<p align="justify">Strona z kalendarzem | Calendar page</p>
+<br><br>
+
+![image](https://github.com/user-attachments/assets/9ce44daf-a6d2-4521-abc8-9fc78a3de733)
+<p style="text-align: center;">Strona z zadaniami | Task page</p>
+<br><br>
+
+![image](https://github.com/user-attachments/assets/03312bb0-6649-4e50-a3d3-b4e1cf421ecc)
+<p style="text-align: center;">Strona z wynikami | Results page</p>
+<br><br>
+
+![image](https://github.com/user-attachments/assets/bc93731e-44dc-48b3-86f7-6f320f7ce330)
+<p style="text-align: center;">Panel użytkownika | User panel</p>
+
+
+
